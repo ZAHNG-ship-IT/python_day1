@@ -1,0 +1,2 @@
+%matplotlib inline
+!jupyter --version
